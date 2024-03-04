@@ -19,6 +19,7 @@ import mhdnurfaizzy.testComponent.baseTest;
 
 public class e2eTest extends baseTest {
 //	String productName = "ADIDAS ORIGINAL";
+//  Test integration git->jenkins->ngrok
 	String productName = "ZARA COAT 3";
 	
 	@Test(dataProvider= "getData",groups="Purchase")
